@@ -10,4 +10,4 @@ hello aguigu！ hello git！
 hello aguigu！ hello git！
 hello aguigu！ hello git！
 hello aguigu！ hello git！master test
-hello aguigu！ hello git！
+hello aguigu！ hello git！hot-fix text
